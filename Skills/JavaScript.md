@@ -1,12 +1,12 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 👂 heard
-  - this 👂 heard
+  - Object 🙋 explained
+  - this 🙋 explained
   - arrow function 🙋 explained
-  - async function 👂 heard
-  - call 👂 heard
-  - bind 🎓 known 
+  - async function 🎓 known
+  - call 🎓 known
+  - bind 🙋 explained
   - apply 🎓 known 
   - instanceof 🎓 known 
   - ...spread 🙋 explained 
@@ -19,10 +19,10 @@
   - async iterator 👂 heard
   - chaining 🎓 known 
   - optional chaining 🎓 known 
-  - IIFE 🎓 known 
+  - IIFE 🖐️ used
   - global 🖐️ used
   - globalThis 👂 heard 
-  - window 🖐️ used
+  - window 🙋 explained
   - getters and setters 🙋 explained
   - __proto__ 🎓 known
   - prototype 🎓 known
@@ -30,13 +30,13 @@
   - logical operators 🙋 explained
   - bitwise operators 🙋 explained
   - ternary operator 🙋 explained
-  - void 🎓 known
+  - void 🙋 explained
   - yield 👂 heard
   - await 🎓 known
-  - template literal 🎓 known
-  - strict mode 🖐️ used 
-  - delete 🖐️ used 
-  - in 🖐️ used 
+  - template literal 🙋 explained
+  - strict mode 🙋 explained
+  - delete 🙋 explained
+  - in 🙋 explained
   - super 👂 heard
   - Symbol 🎓 known
   - Reflect 👂 heard 
@@ -56,29 +56,29 @@
   - label 👂 heard
   - try..catch 🎓 known
   - switch 🙋 explained
-  - class 👂 heard
-  - new Error 👂 heard
+  - class 🙋 explained
+  - new Error 🎓 known
   - with 👂 heard
 - Functions
   - function declaration 🙋 explained
   - function expression 🙋 explained
   - return 🙋 explained
   - default parameters 🙋 explained
-  - functional object 👂 heard
+  - functional object 🙋 explained
 - Data structures
   - Array 🙋 explained
-  - mixin 👂 heard
+  - mixin 🎓 known 
   - extend 👂 heard
   - typed arrays 👂 heard
-  - Map 🖐️ used
-  - Set 🖐️ used
+  - Map 🙋 explained
+  - Set 🙋 explained
   - undefined 🙋 explained
   - null 🙋 explained
   - Proxy 🎓 known 
   - weak collections
-  - timers 🖐️ used
-  - EventEmitter 🖐️ used
-  - RegExp 🎓 known
+  - timers 🙋 explained
+  - EventEmitter 🙋 explained
+  - RegExp 🙋 explained
   - Date 🙋 explained
   - BigInt 🙋 explained
 - Infrastructure

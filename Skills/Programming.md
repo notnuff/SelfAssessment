@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🖐️ used
-  - literal 🖐️ used
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🙋 explained
   - expression 🖐️ used
-  - heap 🖐️ used
-  - function🖐️ used
+  - heap 🙋 explained
+  - function 🖐️ used
   - procedure 🖐️ used
   - method 🖐️ used
-  - class 👂 heard 
-  - prototype 👂 heard 
-  - event 👂 heard 
+  - class 🙋 explained
+  - prototype 🎓 known
+  - event 🙋 explained
   - type 🎓 known 
   - primitive types 🎓 known 
   - reference types 🎓 known 
@@ -24,11 +24,11 @@
   - conditions 🖐️ used
   - loops 🖐️ used
   - assignment 🎓 known
-  - regular expression 👂 heard
-  - interface 👂 heard
+  - regular expression 🙋 explained
+  - interface 🙋 explained
   - contract 👂 heard
   - module 🖐️ used
-  - call stack 👂 heard
+  - call stack 🎓 known 
 - Functions
   - signature 🎓 known
   - argument 🖐️ used
@@ -57,12 +57,12 @@
   - structure 🙋 explained 
   - record 🙋 explained 
   - enum 🙋 explained 
-  - instance 👂 heard
-  - object 👂 heard
-  - class 👂 heard
-  - collection 🎓 known
-  - set 🎓 known
-  - hash table 👂 heard
+  - instance 🙋 explained 
+  - object 🙋 explained 
+  - class 🙋 explained 
+  - collection 🖐️ used
+  - set 🖐️ used
+  - hash table 🖐️ used
   - linked list 🙋 explained
   - doubly list 🙋 explained
   - unrolled list 🎓 known
@@ -75,7 +75,7 @@
   - iterator 👂 heard
   - mutable state 👂 heard
   - immutable state 👂 heard
-  - serialization 🎓 known
+  - serialization 🖐️ used
   - string parsing 🖐️ used
 - Process & style
   - compiler 🖐️ used
@@ -83,8 +83,8 @@
   - linter 🖐️ used 
   - polyfill 👂 heard
   - debugger 🖐️ used
-  - garbage collection 🎓 known
-  - refactoring 🎓 known
+  - garbage collection 🖐️ used
+  - refactoring 🖐️ used
   - code review 🎓 known
   - antipatterns 🖐️ used
   - paradigm 🖐️ used
@@ -101,7 +101,6 @@
   - duplicate code 🖐️ used
   - exception 🎓 known
   - return early 🖐️ used
-  - unittest 🎓 known 
+  - unittest 🎓 known
   - git 🎓 known
   - github 🖐️ used
-  

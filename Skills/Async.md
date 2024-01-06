@@ -2,22 +2,22 @@
 
 - Theory
   - Event loop 🎓 known
-  - try..catch 🎓 known
+  - try..catch 🖐️ used
   - Non-blocking 👂 heard
-  - Async I/O 🎓 known
+  - Async I/O 🖐️ used
   - Thread pool 🎓 known
   - Pattern Reactor 
   - CAS operations 👂 heard
   - epoll 
   - kqueue 
   - Completion ports 👂 heard
-  - Event ports 👂 heard
+  - Event ports 🎓 known
   - libuv 
   - Race conditions 👂 heard
-  - Dead locks 
-  - Live locks 
-  - Concurrent programming 👂 heard
-  - Parallel programming 👂 heard
+  - Dead locks 🎓 known
+  - Live locks 🎓 known
+  - Concurrent programming 🎓 known
+  - Parallel programming 🎓 known
   - Actor Model 👂 heard
   - Thread 🎓 known
   - Process 🎓 known
@@ -25,8 +25,8 @@
   - Callbacks 🖐️ used
   - Callback-last-error-first 👂 heard
   - Thenable 🖐️ used
-  - Promise 👂 heard
-  - Async/await 👂 heard
+  - Promise 🎓 known
+  - Async/await 🎓 known
   - Future  👂 heard
   - Deferred 👂 heard
   - Sync generator 👂 heard
@@ -35,38 +35,38 @@
   - Event 👂 heard
   - Coroutine 👂 heard
   - Goroutine 👂 heard
-  - Signal 
+  - Signal 🖐️ used
   - Stream 🖐️ used
   - Chain of responsibility 👂 heard
   - Middleware 👂 heard
-  - Locks 
+  - Locks 🎓 known
 - Async adapters and utils
-  - callbackify 
-  - promisify 
-  - asyncify 
+  - callbackify 👂 heard
+  - promisify 👂 heard
+  - asyncify 👂 heard
   - callbacks compose 👂 heard
   - async compose 👂 heard
 - Async abstractions interfaces
-  - EventEmitter 👂 heard
+  - EventEmitter 🖐️ used
   - Observable/Observer 👂 heard
-  - Readable 
-  - Writable 
+  - Readable 🖐️ used 
+  - Writable 🖐️ used 
   - Transform 
-  - Async Pool 
-  - Async Queue 
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
   - Async Collector 
-  - Semaphore 
+  - Semaphore 🙋 explained
   - Mutex 
   - Spin Lock 👂 heard
 - JavaScript & Node.js specific
   - Timers 🖐️ used
   - setImmediate 🖐️ used
-  - nextTick 👂 heard
+  - nextTick 🎓 known
   - AbortController 🖐️ used
   - AbortSignal 🎓 known
   - Promise unhandled rejection 🎓 known
   - Promise double resolve 🖐️ used
-  - child_process 👂 heard
+  - child_process 🎓 known
   - worker_threads 👂 heard
   - Atomics 👂 heard
   - High resolution clock 👂 heard
@@ -89,7 +89,7 @@
   - Promise.race 👂 heard
   - Promise.any 👂 heard
   - Web Locks API 👂 heard
-  - IPC 
+  - IPC 🚀 constructed
   - Channel API 
   - Revealing Constructor 
-  - Web Locks API 
+  - Web Locks API 👂 heard
