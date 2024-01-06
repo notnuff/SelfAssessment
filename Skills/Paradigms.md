@@ -1,64 +1,64 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Procedural programming 🎓 known
+  - Imperative programming 🖐️ used
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🎓 known
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 🎓 known
+  - Generic programming 🎓 known
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard
+  - Reactive programming 👂 heard
+  - FRP (Functional-reactive) 👂 heard
+  - Automata-based programming 👂 heard
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 🖐️ used
+  - Metaprogramming 👂 heard
+  - Actor model 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 🙋 explained
+  - new 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
+  - Async method 👂 heard 
+  - Getters, Setters 🙋 explained 
+  - Public fields 🙋 explained 
+  - Private fields 🙋 explained 
+  - Field declarations 🖐️ used
+  - Inheritance 🙋 explained 
+  - Parent class 🙋 explained 
+  - Polymorphism 🙋 explained 
+  - Abstract class 🙋 explained 
+  - Interface 🙋 explained 
+  - Encapsulation 🙋 explained 
+  - Hidden class 👂 heard
+  - Object form 👂 heard
+  - instance 👂 heard
+  - Introspection 👂 heard
+  - Reflection 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Singleton 🖐️ used
+  - Factory Method 🎓 known
+  - Abstract Factory 🎓 known
+  - Adapter 
+  - Observer 🎓 known
+  - Strategy 
+  - Facade 
+  - Proxy 🎓 known
+  - Chain of Responsibility 
+  - Command 🎓 known
+  - Iterator 👂 heard
+  - State 👂 heard
   - Bridge
   - Builder
-  - Prototype
+  - Prototype 🎓 known
   - Composite
-  - Decorator
+  - Decorator 👂 heard
   - Flyweight
   - Mediator
   - Memento
