@@ -1,64 +1,64 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Procedural programming 👂 heard
+  - Imperative programming 🎓 known
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🎓 known
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 👂 heard
+  - Object-based programming 👂 heard
+  - Generic programming 👂 heard
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard
+  - Reactive programming 
+  - FRP (Functional-reactive) 👂 heard
+  - Automata-based programming 👂 heard
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 🖐️ used
+  - Metaprogramming 👂 heard
+  - Actor model 
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 👂 heard
+  - new 👂 heard
+  - Static method 
+  - Method 
+  - Async method 
+  - Getters, Setters 👂 heard
+  - Public fields 
+  - Private fields 
+  - Field declarations 
+  - Inheritance 
+  - Parent class 
+  - Polymorphism 
+  - Abstract class 
+  - Interface 
+  - Encapsulation 
+  - Hidden class 
+  - Object form 
+  - instance 
+  - Introspection 
+  - Reflection 
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Singleton 
+  - Factory Method 
+  - Abstract Factory 
+  - Adapter 
+  - Observer 
+  - Strategy 
+  - Facade 
+  - Proxy 👂 heard
+  - Chain of Responsibility 
+  - Command 
+  - Iterator 👂 heard
+  - State 👂 heard
   - Bridge
   - Builder
-  - Prototype
+  - Prototype 👂 heard
   - Composite
-  - Decorator
+  - Decorator 👂 heard
   - Flyweight
   - Mediator
   - Memento
