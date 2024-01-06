@@ -1,14 +1,14 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 👂 heard
+  - Strong and weak sides of node.js 🎓 known
   - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code 👂 heard
   - Event loop: phases 👂 heard
-  - Event loop: microtasks and macrotasks 👂 heard
-  - Garbage collection 👂 heard
+  - Event loop: microtasks and macrotasks 🎓 known
+  - Garbage collection 🎓 known
   - Node.js LTS schedule 👂 heard
-  - I/O-bound, CPU-bound, memory-bound tasks 
+  - I/O-bound, CPU-bound, memory-bound tasks 🎓 known
   - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
   - CommonJS modules 🖐️ used
@@ -54,11 +54,11 @@
   - node:child_process 🖐️ used
   - MessageChannel, MessagePort 👂 heard
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID 👂 heard
   - node:url vs new URL 👂 heard
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer 👂 heard
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -70,7 +70,7 @@
   - SOLID 
   - GoF patterns
   - Distributed systems 
-  - Clean architecture 
+  - Clean architecture 👂 heard
   - DDD
   - Message Queue 
   - CQS
@@ -91,11 +91,11 @@
   - TLS 🖐️ used
   - Websocket 👂 heard
   - SSE 👂 heard
-  - HTTP/3 (QUIC) 👂 heard
+  - HTTP/3 (QUIC) 🎓 known 
   - Long polling 👂 heard
-  - REST 👂 heard
+  - REST 🙋 explained
   - RPC 
-  - Routing 👂 heard
+  - Routing 🙋 explained
   - DoS 👂 heard
   - DDoS 👂 heard
   - XSS
@@ -104,32 +104,32 @@
   - DNS 🖐️ used
   - Fetch API 🖐️ used
   - IncomingMessage 👂 heard
-  - SQL injection 👂 heard
+  - SQL injection 🎓 known 
   - noDelay 👂 heard
-  - keep-alive 👂 heard
+  - keep-alive 🎓 known
   - ALPN
   - SNI callback
   - SSL certificates 👂 heard
   - Protocol agnostic approach 👂 heard
 - Technique and tools
   - Native test runner 
-  - Logging 👂 heard
+  - Logging 🎓 known 
   - Application configuring 
   - Testing 🖐️ used
   - CI/CD 
-  - Readable 
-  - Writable 
+  - Readable 🙋 explained
+  - Writable 🙋 explained
   - Transform 🖐️ used
   - back pressure 👂 heard
   - Buffer 🖐️ used
   - Console 🖐️ used
   - Inspector 👂 heard
   - Reliability 👂 heard
-  - Quality 
-  - Availability 
+  - Quality 🎓 known
+  - Availability 🎓 known
   - Flexibility 
 - Data access
-  - Data access layer 👂 heard
+  - Data access layer 🎓 known
   - Repository 🖐️ used
   - Active record 👂 heard
   - Query builder 👂 heard
@@ -143,15 +143,15 @@
   - How to avoid mixins 
   - Error.captureStackTrace
   - Uncaught exceptions 👂 heard
-  - Heap dump 👂 heard
+  - Heap dump 🎓 known
   - Debugging tools 👂 heard
   - Flame graph 👂 heard
-  - Memory leaks 👂 heard
+  - Memory leaks 🖐️ used
   - Resource leaks 👂 heard
   - Data race
 - Integrations and bindings
   - Native addons 👂 heard
-  - C and C++ addons 👂 heard
+  - C and C++ addons 🎓 known 
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
@@ -160,10 +160,10 @@
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++ 👂 heard
+  - Webassembly C and C++ 🎓 known 
   - Webassembly Rust
   - Webassembly Zig
-  - Webassembly AssemblyScript
-  - Shared memory
+  - Webassembly AssemblyScript 
+  - Shared memory 🙋 explained
   - SharedArrayBuffer
   - V8 binary serialization
