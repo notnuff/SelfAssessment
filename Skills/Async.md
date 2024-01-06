@@ -6,20 +6,20 @@
   - Non-blocking 👂 heard
   - Async I/O 🎓 known
   - Thread pool 🎓 known
-  - Pattern Reactor 👂 heard
+  - Pattern Reactor 
   - CAS operations 👂 heard
-  - epoll 👂 heard
-  - kqueue 👂 heard
+  - epoll 
+  - kqueue 
   - Completion ports 👂 heard
   - Event ports 👂 heard
-  - libuv 👂 heard
+  - libuv 
   - Race conditions 👂 heard
   - Dead locks 
   - Live locks 
   - Concurrent programming 👂 heard
   - Parallel programming 👂 heard
   - Actor Model 👂 heard
-  - Thread 👂 heard
+  - Thread 🎓 known
   - Process 🎓 known
 - Async contracts
   - Callbacks 🖐️ used
